@@ -465,10 +465,6 @@ namespace MineUpManager
                 Console.ResetColor();
             }
         }
-
-        /// <summary>
-        /// RF03: Função para excluir produtos do sistema
-        /// </summary>
         static void ExcluirProduto()
         {
             Console.Clear();
