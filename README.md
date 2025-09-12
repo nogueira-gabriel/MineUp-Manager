@@ -1,4 +1,3 @@
-markdown
 # 🎮 MineUp Manager - Sistema de Gerenciamento de Estoque e Vendas
 
 ## 📋 Sobre o Projeto
