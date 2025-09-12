@@ -978,7 +978,7 @@ namespace MineUpManager
             Console.WriteLine("╚══════════════════════════════════════════════════════════╝");
             Console.ResetColor();
 
-            Console.WriteLine("\n🎮 GAMEUP STORE - Sistema de Gerenciamento de Estoque");
+            Console.WriteLine("\n🎮 MINEUP MANAGER - Sistema de Gerenciamento de Estoque");
             Console.WriteLine("📚 Projeto Acadêmico - 4º Período de Engenharia de Software");
             Console.WriteLine("🏗️ Arquitetura: Sistema Monolítico sem Orientação a Objetos");
             Console.WriteLine("💾 Persistência: Arquivos de texto (.txt)");
@@ -1006,7 +1006,7 @@ namespace MineUpManager
             Console.WriteLine("✅ RNF05: Carregamento automático de dados");
             Console.WriteLine("✅ RNF06: Tratamento completo de erros");
 
-            Console.WriteLine("\n📧 Desenvolvido por estudantes de Engenharia de Software");
+            Console.WriteLine("\n📧 Desenvolvido por Gabriel Nogueira e Daniel Ângelo");
             Console.WriteLine("📅 Versão 1.0 - 2025");
         }
 
@@ -1033,7 +1033,7 @@ namespace MineUpManager
                 // Cabeçalho do sistema
                 Console.ForegroundColor = ConsoleColor.Blue;
                 Console.WriteLine("╔══════════════════════════════════════════════════════════╗");
-                Console.WriteLine("║                      GAMEUP STORE                       ║");
+                Console.WriteLine("║                      MINEUP MANAGER                       ║");
                 Console.WriteLine("║              Sistema de Gestão de Estoque               ║");
                 Console.WriteLine("║                 Jogos & Periféricos                     ║");
                 Console.WriteLine("╚══════════════════════════════════════════════════════════╝");
@@ -1093,7 +1093,7 @@ namespace MineUpManager
                         Console.ForegroundColor = ConsoleColor.Green;
                         Console.WriteLine("╔══════════════════════════════════════════════════════════╗");
                         Console.WriteLine("║                 OBRIGADO POR USAR O                     ║");
-                        Console.WriteLine("║                    GAMEUP STORE!                        ║");
+                        Console.WriteLine("║                    MINEUP MANAGER!                       ║");
                         Console.WriteLine("║                                                          ║");
                         Console.WriteLine("║              Sistema finalizado com sucesso             ║");
                         Console.WriteLine("╚══════════════════════════════════════════════════════════╝");
