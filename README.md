@@ -3,7 +3,7 @@ markdown
 
 ## 📋 Sobre o Projeto
 
-O **GameUp Store** é um sistema monolítico de gerenciamento de estoque e vendas desenvolvido especificamente para uma loja fictícia especializada em **jogos** e **periféricos**. Este projeto foi desenvolvido como parte do currículo acadêmico do **4º período de Engenharia de Software**, seguindo rigorosamente os princípios de programação estruturada **sem orientação a objetos (POO)**.
+O **MineUp Manager** é um sistema monolítico de gerenciamento de estoque e vendas desenvolvido especificamente para uma loja fictícia especializada em **jogos** e **periféricos**. Este projeto foi desenvolvido como parte do currículo acadêmico do **4º período de Engenharia de Software**, seguindo rigorosamente os princípios de programação estruturada **sem orientação a objetos (POO)**.
 
 ### 🎯 Objetivo
 
